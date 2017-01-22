@@ -1,0 +1,11 @@
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\LastHitMarker.exe.config
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\LastHitMarker.exe
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\LastHitMarker.pdb
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\Ensage.Common.dll
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\Ensage.dll
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\SharpDX.Direct3D9.dll
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\SharpDX.dll
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\bin\Debug\Ensage.Common.pdb
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\obj\Debug\LastHitMarker.csprojResolveAssemblyReference.cache
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\obj\Debug\LastHitMarker.exe
+D:\ensage\EnsageSharp-master\EnsageSharp-master\LastHitMarker\obj\Debug\LastHitMarker.pdb
